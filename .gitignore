@@ -1,7 +1,7 @@
 #Eclipse project files
 .classpath
 .project
-.settings
+.settings 
 
 #Netbeans project files
 nbactions.xml
